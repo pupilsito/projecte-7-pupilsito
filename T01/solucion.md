@@ -87,3 +87,5 @@ Teniendo en cuenta que  FoodLogístic S.A. requiere una renovación integral y e
 | **Consultor en Ciberseguridad** | Auditoría de protección de datos y securización de la red. | Externo  |
 
 Al ser nuestro primer gran cliente, esté recibirá una excelente atención, mantendremos una estructura que nos permita gestionar todo de una buena manera.
+
+[Torna a l'enunciat](README.md)
