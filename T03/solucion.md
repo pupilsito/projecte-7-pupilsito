@@ -20,7 +20,7 @@ Aquí podemos observar los grupos que hemos creado:
 - **Transporte**: Chofers i jefes de flota.
 - **Dirección**: Gerencia.
 
-## 2. Implementación de Recursos Compartidos 
+## 2. Implementación de Recursos Compartidos 
 
 ![pics](pics/7.png)
 
@@ -48,11 +48,11 @@ Nos aparece los **permisos** que están asignados a esa carpeta
 Aquí nos aparecerá el **resumen** de lo que hemos hecho
 
 ### A. Carpeta Public (Metodo: Explorador de archivos):
-### - Compartirla para **todo el mundo**.
-### - Configuración: Permisos SMB de "Lectura" y permisos NTFS de "Modificación". 
+### - Compartirla para **todo el mundo**.
+### - Configuración: Permisos SMB de "Lectura" y permisos NTFS de "Modificación". 
 
 
-## B. Carpeta Operaciones (Metodo: Server Manager - FSSM):
+## B. Carpeta Operaciones (Metodo: Server Manager - FSSM):
 
 ![pics](pics/7.png)
 
@@ -75,11 +75,11 @@ Dejamos seleccionada la opción por **defecto** y además seleccionamos la prime
 
 Aquí nos aparecerá el **resumen** de lo que hemos hecho
 
-### - Crear el recurso compartido.
-### - Hacer que solo se muestre para los usuarios con acceso (Acces-Based Enumeration)
+### - Crear el recurso compartido.
+### - Hacer que solo se muestre para los usuarios con acceso (Acces-Based Enumeration)
 ### - Restricción: NSolo el grupo de **Transporte**  puede acceder.
 
-## C. Carpeta Confidencial (Metodo: PowerShell básico):
+## C. Carpeta Confidencial (Metodo: PowerShell básico):
 
 ![pics](pics/19.png)
 
@@ -100,9 +100,9 @@ Aquí estamos haciendo el **mapeo de la carpeta** y seleccionamos la opción de 
 ![pics](pics/24.png)
 
 ### - Crear la carpeta Direccion$ (recurso ocult).
-### - Restricción: solo puede acceder el grupo de Dirección
+### - Restricción: solo puede acceder el grupo de Dirección
 ### - Utilizad el cmdlet New-SmbShare para compartirla.
-### - Configurar una GPO para que esta carpeta aparezca automáticamente como unidad Z: solo los usuarios de Dirección.
+### - Configurar una GPO para que esta carpeta aparezca automáticamente como unidad Z: solo los usuarios de Dirección.
 
 ## D. Carpeta Confidencial (Metodo: PowerShell avanzaso):
 
@@ -120,23 +120,23 @@ New-SmbShare -Name Direccion -Path C:\Confidencial -FullACcess Direccion
 Get-SmbSHare -Name "Direccion" | Set-SmbShare -FolderEnumerationMode AccessBased
 ```
 
-### Crear la carpeta Dirección.
+### Crear la carpeta Dirección.
 ### Restricción: solo puede acceder el grupo de Dirección.
-### Utilizad el cmdlet New-SmbShare para compartirla y habilitad por PowerShell el Access-Based Enumeration.
-### Configurad una GPO para que esta carpeta aparezca automáticamente como la unidad Z: solo los usuarios de Dirección.
+### Utilizad el cmdlet New-SmbShare para compartirla y habilitad por PowerShell el Access-Based Enumeration.
+### Configurad una GPO para que esta carpeta aparezca automáticamente como la unidad Z: solo los usuarios de Dirección.
 
 ## 3. Control de Almacenaje (FSRM y Cuotas NTFS)
 
-### El cliente se queja de que los usuarios guardan fotos personales y llenan el disco.
+### El cliente se queja de que los usuarios guardan fotos personales y llenan el disco.
 
 ### Cuotas NTFS (Control por Volumen):
-### A la unidad de datos, activad las cuotas NTFS desde las propiedades del volumen
+### A la unidad de datos, activad las cuotas NTFS desde las propiedades del volumen
 
-### Estableced un límite de 500 MB por defecto para cualquier usuario nuevo.
+### Estableced un límite de 500 MB por defecto para cualquier usuario nuevo.
 
 ![pics](pics/33.png)
 
-### FSRM (Control por Carpeta):
+### FSRM (Control por Carpeta):
 
 ### Instalad el rol File Server Resource Manager.
 
