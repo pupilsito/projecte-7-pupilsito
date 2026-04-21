@@ -22,6 +22,16 @@ Aquí podemos observar los grupos que hemos creado:
 
 ## 2. Implementación de Recursos Compartidos 
 
+
+![pics](pics/42.png)
+
+Creamos la carpeta **public**
+
+![pics](pics/43.png)
+![pics](pics/44.png)
+
+Permisos SMB de "Lectura"
+
 ![pics](pics/7.png)
 
 Vamos a **new share** para compartir la carpeta que hemos creado
@@ -47,12 +57,16 @@ Nos aparece los **permisos** que están asignados a esa carpeta
 
 Aquí nos aparecerá el **resumen** de lo que hemos hecho
 
-### A. Carpeta Public (Metodo: Explorador de archivos):
-### - Compartirla para **todo el mundo**.
-### - Configuración: Permisos SMB de "Lectura" y permisos NTFS de "Modificación". 
-
 
 ## B. Carpeta Operaciones (Metodo: Server Manager - FSSM):
+
+![pics](pics/45.png)
+
+Creamos la carpeta **operaciones**
+
+![pics](pics/46.png)
+
+Asignamos los siguientes permisos el cual solo **Transporte** pueda acceder
 
 ![pics](pics/7.png)
 
