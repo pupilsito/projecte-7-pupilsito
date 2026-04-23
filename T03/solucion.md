@@ -191,3 +191,35 @@ Tambíen exluimos que pueda poner:
 ![pics](pics/40.png)
 
 Hacemos lo mismo que anteriormente, de utilizar la plantilla con las configuraciones que hemos puesto
+
+## 4. Verificación y Auditoria
+
+### Carpeta **Direccio**
+
+![pics](pics/47.png)
+
+Como podemos comprobar podemos entrar a la carpeta **direccio** con el usuario que hemos asignado en el grupo
+
+### Carpeta **Direccio Denegado**
+
+![pics](pics/48.png)
+
+En cambio cuando intentamos entrar desde un usuario que **no** está en el grupo pertinente le niega el acceso
+
+### Carpeta **Operaciones**
+
+![pics](pics/49.png)
+
+Como podemos comprobar podemos entrar a la carpeta **operacions** con el usuario que hemos asignado en el grupo
+
+### Carpeta **operacions Denegado**
+
+![pics](pics/50.png)
+
+Como podemos comprobar podemos entrar a la carpeta **operacions** con el usuario que hemos asignado en el grupo
+
+### Límite en la carpeta **public**
+
+![pics](pics/48.png)
+
+Como podemos ver nos aparece el límite establecido
