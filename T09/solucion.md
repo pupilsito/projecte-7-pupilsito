@@ -1,3 +1,67 @@
+# Fase 1: Análisi real del proyecto 
+## 1.1 Identificació de tasques i dependències
+
+### A partir de les tasques reals del projecte (T01–T08):
+Ordre lògic d’execució
+- 1.-T05: Vídeo formatiu LOPD empleats.
+- 2.- T01: Coneixent la competència i el sector
+- 3.-T02: Creant la proposta de pàgina corporativa
+- 4.- T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+- 5.-T08:  Tria de la web definitiva.
+- 6.-T03: Servidor de fitxers
+- 7.- T07:  Migrant al cloud. 
+- 8.-T04: Servidor d’impressió
+### Tasques que poden anar en paral·lel
+- T07:  Migrant al cloud. /  T01: Coneixent la competència i el sector
+- T02: Creant la proposta de pàgina corporativa / T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+- Las demás tascas tienen que ir solas ya que se han de hacer si o si en parejas.
+
+
+
+### Tasques bloquejants
+- La T02: Creant la proposta de pàgina corporativa no se puede hacer hacer sin la T01: Coneixent la competència i el sector.
+- La T04: Servidor d’impressió no se puede hacer sin la T03: Servidor de fitxers
+- La T08:  Tria de la web definitiva no se puede hacer sin la T02: Creant la proposta de pàgina corporativa
+
+### Heu de respondre preguntes com:
+
+### Quines tasques no poden començar sense haver-ne acabat una altra?
+- La T02: Creant la proposta de pàgina corporativa no se puede hacer hacer sin la T01: Coneixent la competència i el sector.
+- La T04: Servidor d’impressió no se puede hacer sin la T03: Servidor de fitxers
+- La T08:  Tria de la web definitiva no se puede hacer sin la T02: Creant la proposta de pàgina corporativa
+
+### On poden aparèixer colls d’ampolla?
+
+- T03: Servidor de fitxers
+- T04: Servidor d’impressió
+- T07:  Migrant al cloud. /  T01: Coneixent la competència i el sector
+- T02: Creant la proposta de pàgina corporativa / T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+
+### Quines tasques són més crítiques per al projecte?
+
+- T05: Vídeo formatiu LOPD empleats.
+- T01: Coneixent la competència i el sector
+- T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+- T02: Creant la proposta de pàgina corporativa
+
+
+## 1.2 Identificació del camí crític
+Determineu:
+Quines tasques, si es retarden, afecten tot el projecte
+T05: Vídeo formatiu LOPD empleats.
+T01: Coneixent la competència i el sector
+T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+T02: Creant la proposta de pàgina corporativa
+T03: Servidor de fitxers
+T04: Servidor d’impressió
+Quines tenen marge (slack)
+T05: Vídeo formatiu LOPD empleats.
+T01: Coneixent la competència i el sector
+T02: Creant la proposta de pàgina corporativa
+T07:  Migrant al cloud. 
+T08:  Tria de la web definitiva.
+
+
 # 2. Codigo PlantUML y imagen del diagrama de Gantt
 
 ## Fase 2 — Estimación de Esfuerzo con Criterio
@@ -148,6 +212,32 @@ Este documento recoge la estimación detallada de esfuerzo para las tareas **T01
 - La estimación incluye margen para imprevistos y carga académica.  
 - Este documento forma parte del entregable oficial del proyecto FoodLogístic S.A.
 
+# Fase 3: Asignacion de recursos 
+
+## Distribuïu les tasques entre els membres de l’equip:
+- Qui fa què
+### Hugo: 
+- T01: Fase 1: Coneixent el terreny i la competència
+- T02: Creant la proposta de pàgina corporativa
+- T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+
+### Jhon:
+- T01: Fase 2: Estratègia
+- T02: Creant la proposta de pàgina corporativa
+- T06: Operació Escut Digital: Fent 100% legal la web de FoodLogístic S.A.
+- Si hi ha tasques compartides entre Jhon y Hugo
+- T03: Servidor de fitxersT05: Vídeo formatiu LOPD empleats.
+- T04: Servidor d’impressió
+- T05: Vídeo formatiu LOPD empleats.
+- T07:  Migrant al cloud. 
+- T08:  Tria de la web definitiva.
+- Si hi ha dependència entre membres
+- T03: Servidor de fitxers: Si Hugo que es especialista en server no ha acabado y está con la parte de server, Jhon no puede hacer las comprobaciones del cliente.
+- T04: Servidor d’impressió: Si hugo no ha acabado la parte de configuraciones aún no se puede hacer las comprobaciones.
+- T05: Vídeo formatiu LOPD empleats: Si Jhon está haciendo la parte de los guiones no se puede grabar los vídeos.
+- T07:  Migrant al cloud.: Si uno de los dos miembros del grupo está con la parte de comparativas y de cálculos de los costos, el otro miembro aún no puede hacer la parte de la redacción de la propuesta.
+
+
 # 4. Construcción del diagrama de Gantt (UMLTree)
 
 ```js
@@ -191,4 +281,4 @@ sunday are closed
 @endgantt 
 ```
 
-![pics](pics/1.png)
+![pics](pics/2.png)
