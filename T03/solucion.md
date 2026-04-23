@@ -151,8 +151,7 @@ Get-SmbSHare -Name "Direccion" | Set-SmbShare -FolderEnumerationMode AccessBased
 ![pics](pics/33.png)
 
 ### FSRM (Control por Carpeta):
-
-### Instalad el rol File Server Resource Manager.
+    ### Instalad el rol File Server Resource Manager.
 
 ![pics](pics/27.png)
 
