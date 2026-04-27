@@ -115,6 +115,15 @@ Aquí estamos haciendo el **mapeo de la carpeta** y seleccionamos la opción de 
 ![pics](pics/23.png)
 ![pics](pics/24.png)
 
+## Resumen de las **Carpetas**
+| Nom de Carpeta | Camí UNC                       | Grups amb Accés | Mètode de Creació                                   |
+|----------------|--------------------------------|-----------------|-----------------------------------------------------|
+| Public         | \\FOODLOGISTIC\public          | Lectura (SMB)   | Server Manager - SMB Share Quick                    |
+| Operaciones    | \\FOODLOGISTIC\operaciones     | Transporte      | Server Manager - FSSM (Access-Based Enumeration)    |
+| Confidencial   | \\FOODLOGISTIC\Confidencial$   | Dirección       | PowerShell (New-SmbShare)                           |
+| Dirección      | \\FOODLOGISTIC\Direccion       | Dirección       | PowerShell Avançat (habilitant Access-Based Enumeration) |
+
+
 ### - Crear la carpeta Direccion$ (recurso ocult).
 ### - Restricción: solo puede acceder el grupo de Dirección
 ### - Utilizad el cmdlet New-SmbShare para compartirla.
