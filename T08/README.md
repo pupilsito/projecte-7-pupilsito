@@ -1,20 +1,42 @@
-# T08 — Tria de la web definitiva
+# T08:  Tria de la web definitiva.
 
-## Descripció breu
-Procés de reflexió, debat i consens per seleccionar la versió final de la web corporativa que es presentarà al client.
+## Introducció 
 
-## Contingut de la tasca
-- Reflexió individual sobre punts forts i febles de la pròpia web.
-- Debat en equip i contrast d’idees.
-- Negociació i consens per triar la web final.
-- Possibilitat de fusionar elements de diferents webs.
+Benvinguts a una de les fases més importants d'aquest projecte. Com a integrants de la vostra pròpia empresa de serveis informàtics, ha arribat el moment de demostrar que sabeu treballar en equip per oferir solucions professionals.
 
-## Lliurables
-- Document amb reflexions individuals.
-- Informe del procés de negociació.
-- Justificació de la decisió final.
+Fins ara, cadascú de vosaltres ha estat treballant de manera individual en el disseny de la pàgina web. Ara bé, el client no vol rebre diferents propostes diferents d'una mateixa empresa; FoodLogístic S.A. espera una solució única, consensuada i professional que s'inclogui a la memòria tècnica final.
 
----
+![Portada T8](img/portadat8.png)
 
-- [**Solucio**](solucion.md)  
-- [**Tornar el projecte**](../README.md)
+Per tal d'evitar triar una proposta a cegues o sense criteri, aplicarem una dinàmica de treball en equip per fomentar la participació de tothom. Aquest procés us servirà per:
+
+- Reflexionar individualment sobre els encerts del vostre propi disseny.
+- Posar en comú les idees amb la resta de companys de l'equip.
+- Compartir els vostres descobriments i negociar per arribar a un consens.
+- Desenvolupar habilitats transversals imprescindibles en el món laboral real com la comunicació assertiva, la col·laboració i la creativitat.
+
+Recordeu que el vostre objectiu com a socis de l'empresa informàtica és defensar una proposta guanyadora que convenci el client, sigui tècnicament viable i compleix totes les exigències legals.
+
+## Descripció de l’activitat
+
+**Pas 1: Reflexió Individual**
+
+Cadascun de vosaltres ha d’analitzar individualment la web corporativa que ha creat individualment per al client. Redacta una petita llista amb els punts forts i febles de la teva pròpia proposta segons el que demana el client.
+
+**Pas 2: Debat i Contrast d’idees**
+
+Ara els membres de l’equip us reuniu per explicar les reflexions individuals de les seves propostes. Durant aquesta fase, és obligatori que defenseu els vostres arguments procurant posar en pràctica la comunicació assertiva i escolteu els dels companys.
+
+**Pas 3: Negociació i Consens Final**
+
+Després d'avaluar les diferents propostes, els integrants de l'equip heu d'entrar en una fase de negociació per triar la web definitiva. No podeu prendre la decisió de manera arbitrària; s'ha d'arribar a un acord per decidir quina solució a presentar.
+
+**Sigueu creatius:** si ho preferiu, podeu decidir fusionar el millor de cada web (per exemple, el formulari d'un i el disseny d'un altre) per crear la proposta final perfecta.
+
+## Solució
+
+A l'arxiu [solució.md](SOLUCION.md)  hi ha la solució del producte
+
+[Torna a la pàgina del projecte](../README.md)
+
+
