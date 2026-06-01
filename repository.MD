@@ -37,11 +37,21 @@
 [Site de projectes](https://sites.google.com/mataro.epiaedu.cat/projectes-smx2-2025-26/p%C3%A0gina-principal?)
 
 
-Projecte 1 - Arrenquem
+## Projecte 1 - Arrenquem
 
-El repte d’aquest primer projecte En aquest primer projecte no volem que construïu 
-encara un producte final complet. El nostre objectiu no és obtenir ja una web acabada, 
-un servei desplegat o un sistema completament configurat. Encara heu d’aprendre molt.
+### En este primer proyecto no queremos que construya todavía un producto final completo. Nuestro objetivo no es obtener ya una web terminada, un servicio desplegado o un sistema completamente configurado. Todavía tiene que aprender mucho. 
+### Esto vendrá más adelante.
+### Lo que queremos ahora es que aprenda a trabajar como se hace en una empresa profesional. Esto significa:
+### Aplicar una metodología de trabajo clara y rigurosa.
+
+
+### Aprender a organizarse y repartir tareas con Kanban, un sistema visual que permite ver el estado de cada actividad y que trabajaremos con herramientas digitales como Microsoft Planner.
+
+
+### Entender que el trabajo debe realizarse de manera metódica, organizada y constante.
+
+
+### Por tanto, el verdadero producto de este proyecto no es tanto el resultado técnico, sino su aprendizaje en metodología profesional y trabajo en equipo.
 
 Enlaces
 
