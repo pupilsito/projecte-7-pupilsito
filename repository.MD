@@ -39,9 +39,9 @@
 
 ## Projecte 1 - Arrenquem
 
-### En este primer proyecto no queremos que construya todavía un producto final completo. Nuestro objetivo no es obtener ya una web terminada, un servicio desplegado o un sistema completamente configurado. Todavía tiene que aprender mucho. 
+### En este primer proyecto no queremos que construya todavía un producto final completo. Nuestro objetivo no es obtener ya una web terminada, un servicio desplegado o un sistema completamente configurado. Todavía tiene que aprender mucho. 
 ### Esto vendrá más adelante.
-### Lo que queremos ahora es que aprenda a trabajar como se hace en una empresa profesional. Esto significa:
+### Lo que queremos ahora es que aprenda a trabajar como se hace en una empresa profesional. Esto significa:
 ### Aplicar una metodología de trabajo clara y rigurosa.
 
 
