@@ -37,7 +37,7 @@
 [Site de projectes](https://sites.google.com/mataro.epiaedu.cat/projectes-smx2-2025-26/p%C3%A0gina-principal?)
 
 
-## Projecte 1 - Arrenquem
+## Proyecto 1 - Arrancamos
 
 ### En este primer proyecto no queremos que construya todavía un producto final completo. Nuestro objetivo no es obtener ya una web terminada, un servicio desplegado o un sistema completamente configurado. Todavía tiene que aprender mucho. 
 ### Esto vendrá más adelante.
@@ -55,189 +55,182 @@
 
 Enlaces
 
-[Projecte 1 - Arrenquem-Enunciado](https://docs.google.com/document/d/1jDWEedM7QYOM9GDpSKxQYTwa1-SNoTe4/edit)
-[Projecte 1 - Arrenquem-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=10741)
+[Proyecto 1 - Arrenquem-Enunciado](https://docs.google.com/document/d/1jDWEedM7QYOM9GDpSKxQYTwa1-SNoTe4/edit)
+[Proyecto 1 - Arrenquem-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=10741)
 
 ---
 
-# Projecte 2. Consultoria EverPia
+## Proyecto 2. Consultoria EverPia
 
-**Benvinguts a EverPia**
+### EverPia es una consultora IT cuya misión es resolver los retos tecnológicos de clientes muy diversos.
 
-EverPia és una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos.
+### Acaba de incorporarse a la empresa como nuevos consultores junior y, a partir de hoy, formará parte del equipo que da servicio a diferentes organizaciones.
 
-Acabeu d’incorporar-vos a l’empresa com a nous consultors júnior i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions.
+### Cada cliente tiene sus necesidades concretas y, a menudo, parecen proyectos inconexos.
 
-Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos.
-
-Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
+### Pero no se engañe: lo que realmente le pedimos es capacidad de adaptación, visión global y organización.
 
 ## Enlaces
 
-[Projecte 2. Consultoria EverPia-Enunciado](https://docs.google.com/document/d/1T-ZolnNG4M_l87NFgdeywkjHU5JEy2Zk/edit)
+[Proyecto 2. Consultoria EverPia-Enunciado](https://docs.google.com/document/d/1T-ZolnNG4M_l87NFgdeywkjHU5JEy2Zk/edit)
 
-[Projecte 2. Consultoria EverPia-Markdown](https://github.com/pupilsito/Projecte2)
+[Proyecto 2. Consultoria EverPia-Markdown](https://github.com/pupilsito/Projecte2)
 
-[Projecte 2. Consultoria EverPia-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11506)
+[Proyecto 2. Consultoria EverPia-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11506)
 
 ---
 
-# Projecte 3: Everpia II. Sobreviure en una empresa IT
+## Proyecto 3: Everpia II. Sobrevivir en una empresa IT
 
-Després de mesos de i commits a última hora, EverPia ha aconseguit el seu primer gran èxit.
-Però com diu la llegenda del sector IT:
+### Después de meses de y commits a última hora, EverPia ha logrado su primer gran éxito.
+Pero como dice la leyenda del sector IT:
 
-**“Quan tot funciona, és que no ho has mirat prou bé.**
+### **“Cuando todo funciona, es que no lo has mirado bien.**
 
-Ara arriba EverPia 2, on el repte ja no és construir… sinó sobreviure.
+### Ahora llega EverPia 2, donde el reto ya no es construir… sino sobrevivir.
 
-Els servidors cremen i vosaltres sou els bombers digitals.
+### Los servidores queman y ustedes son los bomberos digitales.
 
-**Missió**
+### **Misión**
 
-**Demostrar que sou capaços de:**
-- Resoldre problemes reals d’infraestructura IT
-- Gestionar serveis essencials (DNS, LDAP, LVM…)
-- Treballar amb metodologia àgil i serenitat
-- Mantenir la calma mentre tot falla
-- El coneixement és important, però la serenitat és un servei premium.
+### **Demostrar que sois capaces de:**
+- Resolver problemas reales de infraestructura IT
+- Gestionar servicios esenciales (DNS, LDAP, LVM…)
+- Trabajar con metodología ágil y serenidad
+- Mantener la calma mientras todo falla
+- El conocimiento es importante, pero la serenidad es un servicio premium.
 
-**Objectius formatius**
-- Consolidar coneixements avançats en sistemes i xarxes
-- Resoldre incidències sota pressió
-- Documentar amb GitHub i Markdown
-- Treballar en equip amb responsabilitat i autonomia
+### **Objetivos formativos**
+- Consolidar conocimientos avanzados en sistemas y redes
+- Resolver incidencias bajo presión
+- Documentar con GitHub y Markdown
+- Trabajar en equipo con responsabilidad y autonomía
 
-**El foc ja està encès.**
-**Agafeu l’extintor… i el teclat.**
 
 ### Enlaces
 
-[Projecte 3: Everpia II. Sobreviure en una empresa IT-Enunciado](https://docs.google.com/document/d/1pmPUfepamfRqLaISejMKvwlwHOt5WVmh/edit)
+[Proyecto 3: Everpia II. Sobreviure en una empresa IT-Enunciado](https://docs.google.com/document/d/1pmPUfepamfRqLaISejMKvwlwHOt5WVmh/edit)
 
-[Projecte 3: Everpia II. Sobreviure en una empresa IT-Markdown](https://github.com/pupilsito/Proyecto3)
+[Proyecto 3: Everpia II. Sobreviure en una empresa IT-Markdown](https://github.com/pupilsito/Proyecto3)
 
-[Projecte 3: Everpia II. Sobreviure en una empresa IT-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11691)
+[Proyecto 3: Everpia II. Sobreviure en una empresa IT-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11691)
 
 --- 
 
-# Projecte 4: Everpia III. Desafiament Final
+# Proyecto 4: Everpia III. Desafiamiento Final
 
-Aquest projecte final d’EverPia simula un entorn real d’empresa IT perquè l’alumne demostri autonomia, capacitat tècnica i professionalitat. L’objectiu és integrar coneixements de sistemes, xarxes, seguretat i aplicacions web mentre es resolen problemes reals i es documenten processos de manera professional.
+### Este proyecto final de EverPia simula un entorno real de empresa IT para que el alumno demuestre autonomía, capacidad técnica y profesionalidad. El objetivo es integrar conocimientos de sistemas, redes, seguridad y aplicaciones web mientras se resuelven problemas reales y se documentan procesos de forma profesional.
 
-El repte es divideix en un bloc tècnic i un bloc creatiu. A nivell tècnic, es treballa amb còpies de seguretat, restauració d’imatges amb Rescuezilla, servidors NFS i CUPS, i solucions d’accés remot. A nivell creatiu i organitzatiu, es desenvolupa un prototip corporatiu amb Figma, es gestionen repositoris Git, es documenta el treball i s’utilitza Kanban per organitzar les tasques.
+### El reto se divide en un blog técnico y un blog creativo. A nivel técnico, se trabaja con copias de seguridad, restauración de imágenes con Rescuezilla, servidores NFS y CUPS, y soluciones de acceso remoto. A nivel creativo y organizativo, se desarrolla un prototipo corporativo con Figma, se gestionan repositorios Git, se documenta el trabajo y se utiliza Kanban para organizar las tareas.
 
-El projecte també incorpora criteris de sostenibilitat i economia circular. Finalment, l’alumne lliura una carpeta professional amb tots els serveis configurats, informes tècnics, prototips i documentació, demostrant que està preparat per afrontar reptes reals del món IT.
+### El proyecto incorpora también criterios de sostenibilidad y economía circular. Por último, el alumno entrega una carpeta profesional con todos los servicios configurados, informes técnicos, prototipos y documentación, demostrando que está preparado para afrontar retos reales del mundo IT.
 
 ### Enlaces
 
-[Projecte 4: Everpia III. Desafiament Final-Enunciado](https://docs.google.com/document/d/1VulXbtUf8-QMwnKRvd_sY5IVLjWcDqXs/edit)
+[Proyecto 4: Everpia III. Desafiament Final-Enunciado](https://docs.google.com/document/d/1VulXbtUf8-QMwnKRvd_sY5IVLjWcDqXs/edit)
 
-[Projecte 4: Everpia III. Desafiament Final-Markdown](https://github.com/pupilsito/Proyecto4)
+[Proyecto 4: Everpia III. Desafiament Final-Markdown](https://github.com/pupilsito/Proyecto4)
 
-[Projecte 4: Everpia III. Desafiament Final-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11801)
+[Proyecto 4: Everpia III. Desafiament Final-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11801)
 
 ---
 
-# Projecte 5: La incubadora
+## Proyecto 5: La incubadora
 
-Durant les pròximes 4 setmanes, la classe es converteix en una incubadora d’empreses. No una cosa “de postureig”, sinó una simulació seriosa i guiada: vosaltres sereu un equip emprenedor que ha de dissenyar una empresa IT des de zero i portar-la fins a una presentació final com si us juguéssiu finançament real.
+### En las próximas 4 semanas, la clase se convierte en una incubadora de empresas. No algo “de postureo”, sino una simulación seria y guiada: ustedes serán un equipo emprendedor que debe diseñar una empresa IT desde cero y llevarla hasta una presentación final como si se jugara financiación real.
 
-Perquè aquesta és la idea: deixar de treballar només com a estudiants i començar a treballar com a professionals que construeixen una proposta completa.
+### Porque esta es la idea: dejar de trabajar sólo como estudiantes y empezar a trabajar como profesionales que construyen una propuesta completa.
 
-**No es tracta de fer una idea “xula”. Es tracta de construir una empresa que:**
-- tingui un problema real al darrere,
-- un client que existeixi,
-- una solució clara 
-- una manera de guanyar diners,
-- uns números mínimament coherents,
-- i un equip que pugui defensar que és capaç d’executar-la.
+### **No se trata de hacer una idea “chula”. Se trata de construir una empresa que:**
+- tenga un problema real detrás,
+- un cliente que exista,
+- una solución clara 
+- una forma de ganar dinero,
+- unos números mínimamente coherentes,
+- y un equipo que pueda defender que es capaz de ejecutarla.
 
 ### Enlaces
 
-[Projecte 5: La incubadora-Enunciado](https://docs.google.com/document/d/1_8Tt_eRl6O6JmPEjX-yZ1EoPQcA4MRjU/edit)
+[Proyecto 5: La incubadora-Enunciado](https://docs.google.com/document/d/1_8Tt_eRl6O6JmPEjX-yZ1EoPQcA4MRjU/edit)
 
-[ Projecte 5: La incubadora-Markdown](https://github.com/pupilsito/Proyecto5)
+[ Proyecto 5: La incubadora-Markdown](https://github.com/pupilsito/Proyecto5)
 
-[Projecte 5: La incubadora-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11918)
+[Proyecto 5: La incubadora-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=11918)
 
 ---
 
-# Projecte 6: Projecte Nexus
+# Proyecto 6: Proyecto Nexus
 
-Projecte Nexus vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics i demana que aquesta plataforma es construeixi sobre una infraestructura de servidor eficient, sostenible i amb costos controlats.
+### Proyecto Nexus quiere poner en marcha una plataforma de formación E-learning propia, orientada a cursos para técnicos informáticos y solicita que esta plataforma se construya sobre una infraestructura de servidor eficiente, sostenible y con costes controlados.
 
-Per aquest motiu, Projecte Nexus encarrega al vostre equip tècnic (vosaltres) l’estudi, desplegament i presentació d’una solució completa de servidor, adequada a les necessitats del client i al context real d’una petita o mitjana organització.
+### Por este motivo, Proyecto Nexus encarga a su equipo técnico (usted) el estudio, despliegue y presentación de una solución completa de servidor, adecuada a las necesidades del cliente y al contexto real de una pequeña o mediana organización.
 
-**El repte del projecte:** El repte principal és crear i justificar una solució de servidor realista, com ho faria un tècnic o tècnica de sistemes en una empresa professional.
+### **El reto del proyecto:** El reto principal es crear y justificar una solución de servidor realista, como lo haría un técnico o técnica de sistemas en una empresa profesional.
 
-**No es tracta només d’instal·lar un servidor, sinó de:**
-- Entendre què necessita el client.
-- Escollir la tecnologia més adequada.
-- Comparar alternatives.
-- Explicar els costos i la viabilitat.
-- Presentar la solució de manera clara i entenedora.
+### **No se trata sólo de instalar un servidor, sino de:**
+- Entender qué necesita el cliente.
+- Escoger la tecnología más adecuada.
+- Comparar alternativas.
+- Explicar los costes y la viabilidad.
+- Presentar la solución de forma clara y comprensible.
 
-**Aquest projecte simula un encàrrec professional real, similar als que us podeu trobar en pràctiques o en la vostra futura feina.**
+### **Este proyecto simula un encargo profesional real, similar a los que se puede encontrar en prácticas o en su futuro trabajo.**
 
 
 ### Enlaces
 
-[Projecte 6: Projecte Nexus-Enunciado](https://docs.google.com/document/d/1dyntLKYDdo1CpgM7ZmHbXXD5VhMYAe9-/edit)
+[Proyecto 6: Proyecto Nexus-Enunciado](https://docs.google.com/document/d/1dyntLKYDdo1CpgM7ZmHbXXD5VhMYAe9-/edit)
 
-[Projecte 6: Projecte Nexus-Markdown](https://github.com/pupilsito/projecte6-pupilsito)
+[Proyecto 6: Proyecto Nexus-Markdown](https://github.com/pupilsito/projecte6-pupilsito)
 
-[Projecte 6: Projecte Nexus-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12015)
+[Proyecto 6: Proyecto Nexus-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12015)
 
 ---
 
-# Projecte 7: Client FoodLogistic S.A.
+# Proyecto 7: Client FoodLogistic S.A.
 
-Aquest projecte consisteix a ajudar l’empresa FoodLogístic S.A. a modernitzar la seva infraestructura tecnològica i, al mateix temps, consolidar la presència digital de la vostra pròpia empresa informàtica.
+### Este proyecto consiste en ayudar a la empresa FoodLogístic S.A. a modernizar su infraestructura tecnológica y, al mismo tiempo, consolidar la presencia digital de su propia empresa informática.
+### El cliente necesita mejoras en cuatro áreas principales: implementar servidores en alta disponibilidad para que los servicios críticos no se detengan, migrar el correo y las herramientas de trabajo a la nube con soluciones como Microsoft 365 o Google Workspace, formar a los trabajadores sobre protección de datos y cumplimiento de la LOPD mediante un vídeo formativo, y crear una nueva página web moderna y adaptada a la normativa vigente.
 
-El client necessita millores en quatre àrees principals: implementar servidors en alta disponibilitat perquè els serveis crítics no s’aturin, migrar el correu i les eines de treball al núvol amb solucions com Microsoft 365 o Google Workspace, formar els treballadors sobre protecció de dades i compliment de la LOPD mitjançant un vídeo formatiu, i crear una nova pàgina web moderna i adaptada a la normativa vigent.
-
-A més, totes les propostes s’han de presentar en una memòria tècnica amb documentació, proves de concepte i un repositori organitzat. També cal elaborar un pressupost complet amb costos d’implantació, manteniment i suport, així com un calendari detallat del desplegament utilitzant eines de gestió i planificació com diagrames de Gantt o Planner.
+### Además, todas las propuestas deben presentarse en una memoria técnica con documentación, pruebas de concepto y un repositorio organizado. También es necesario elaborar un presupuesto completo con costes de implantación, mantenimiento y soporte, así como un calendario detallado del despliegue utilizando herramientas de gestión y planificación como diagramas de Gantt o Planner.
 
 ### Enlaces
 
-[Projecte 7: Client FoodLogistic S.A.-Enunciado](https://docs.google.com/document/d/1-bj8wLEwN5CsDi72T5YBS2x--U9V90SN/edit)
+[Proyecto 7: Client FoodLogistic S.A.-Enunciado](https://docs.google.com/document/d/1-bj8wLEwN5CsDi72T5YBS2x--U9V90SN/edit)
 
-[Projecte 7: Client FoodLogistic S.A.-Drive](https://drive.google.com/drive/folders/1FqWCNBHIiLaCHpDl0cskVd0LEIZ0MPR4?usp=sharing)
+[Proyecto 7: Client FoodLogistic S.A.-Drive](https://drive.google.com/drive/folders/1FqWCNBHIiLaCHpDl0cskVd0LEIZ0MPR4?usp=sharing)
 
-[Projecte 7: Client FoodLogistic S.A.-Markdown](https://github.com/pupilsito/projecte-7-pupilsito)
+[Proyecto 7: Client FoodLogistic S.A.-Markdown](https://github.com/pupilsito/projecte-7-pupilsito)
 
-[Projecte 7: Client FoodLogistic S.A.-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12117)
+[Proyecto 7: Client FoodLogistic S.A.-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12117)
 
 [Web Corporativa de foodlogistic](https://github.com/pupilsito/web-corporativa)
 
 ---
 
-# Projecte 8. Connecta't al Futur: El repte de la digitalització real
+# Proyecto 8. Connecta't al Futur: El repte de la digitalització real
 
-**Benvinguts al darrer projecte del curs!**
+### En este proyecto, se convertirá en consultores tecnológicos para pequeñas y medianas empresas (pymes) y su misión será una de las más demandadas actualmente en el mercado: acompañar a los pequeños negocios en su camino hacia la digitalización.
 
-En aquest projecte, us convertireu en consultors tecnològics per a petites i mitjanes empreses (pimes) i la vostra missió serà una de les més demanades actualment al mercat: acompanyar els petits negocis en el seu camí cap a la digitalització.
+### **¿Cuál es el reto?**
 
-**Quin és el repte?**
+### Muchas pequeñas empresas de nuestro entorno dominan su producto pero tienen dificultades para adaptarse a las nuevas tecnologías. Su objetivo será analizar casos reales de negocios que necesitan modernizarse. No se trata sólo de instalar software, sino de encontrar la solución tecnológica que realmente les ayude a ser más competitivos, eficientes, sostenibles y seguros.
 
-Moltes petites empreses del nostre entorn dominen el seu producte, però tenen dificultats per adaptar-se a les noves tecnologies. El vostre objectiu serà analitzar casos reals de negocis que necessiten modernitzar-se. No es tracta només d'instal·lar programari, sinó de trobar la solució tecnològica que realment els ajudi a ser més competitius, eficients, sostenibles i segurs.
+### **A lo largo de este proyecto, trabajará de forma práctica:**
+- Analizará las necesidades de un cliente real.
+- Diseñará soluciones a medida (infraestructura, seguridad, gestión de datos, etc.).
+- Asesorará el negocio para que la adaptación tecnológica sea un éxito.
 
-**Al llarg d'aquest projecte, treballareu de forma pràctica:**
-- Analitzareu les necessitats d'un client real.
-- Dissenyareu solucions a mida (infraestructura, seguretat, gestió de dades, etc.).
-- Assessorareu el negoci perquè l'adaptació tecnològica sigui un èxit.
+### Pero ser un buen informático hoy en día no sólo significa saber de código o de redes. La tecnología tiene un impacto directo en nuestro planeta y en la sociedad. Por ello, tendrá que elaborar un plan de sostenibilidad específico para uno de sus clientes.
 
-Però ser un bon informàtic avui dia no només vol dir saber de codi o de xarxes. La tecnologia té un impacte directe en el nostre planeta i en la societat. Per això, haureu d'elaborar un pla de sostenibilitat específic per a un dels vostres clients.
+### El objetivo es aplicar los Objetivos de Desarrollo Sostenible (ODS) a su propuesta: desde la reducción de la huella de carbono de los equipos hasta garantizar un uso ético y responsable de la tecnología. Queremos soluciones que sean buenas para el cliente, pero también para el mundo en el que vivimos.
 
-L'objectiu és aplicar els Objectius de Desenvolupament Sostenible (ODS) a la vostra proposta: des de la reducció de la petjada de carboni dels equips fins a garantir un ús ètic i responsable de la tecnologia. Volem solucions que siguin bones per al client, però també per al món on vivim.
-
-Aquest projecte és l'oportunitat ideal per posar en pràctica tot el que heu après als diferents mòduls, treballant en equip i enfrontant-vos a problemes del món real.
+### Este proyecto es la oportunidad ideal para poner en práctica todo lo aprendido en los diferentes módulos, trabajando en equipo y enfrentándose a problemas del mundo real.
 
 ### Enlaces
 
-[Projecte 8. Connecta't al Futur: El repte de la digitalització real-Enunciado](https://github.com/SMX2n/Projecte8_Enunciat)
+[Proyecto 8. Connecta't al Futur: El repte de la digitalització real-Enunciado](https://github.com/SMX2n/Projecte8_Enunciat)
 
-[Projecte 8. Connecta't al Futur: El repte de la digitalització real-Markdown](https://github.com/classesSMX2n/projecte-8-pupilsito) 
+[Proyecto 8. Connecta't al Futur: El repte de la digitalització real-Markdown](https://github.com/classesSMX2n/projecte-8-pupilsito) 
 
-[Projecte 8. Connecta't al Futur: El repte de la digitalització real-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12235)
+[Proyecto 8. Connecta't al Futur: El repte de la digitalització real-Moodle](https://escolapia-mataro.clickedu.net/course/section.php?id=12235)
