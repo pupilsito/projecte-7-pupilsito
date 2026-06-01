@@ -117,13 +117,13 @@ Pero como dice la leyenda del sector IT:
 
 --- 
 
-# Proyecto 4: Everpia III. Desafiamiento Final
+## Proyecto 4: Everpia III. Desafiamiento Final
 
-### Este proyecto final de EverPia simula un entorno real de empresa IT para que el alumno demuestre autonomía, capacidad técnica y profesionalidad. El objetivo es integrar conocimientos de sistemas, redes, seguridad y aplicaciones web mientras se resuelven problemas reales y se documentan procesos de forma profesional.
+### Este proyecto final de EverPia simula un entorno real de empresa IT para que el alumno demuestre autonomía, capacidad técnica y profesionalidad. El objetivo es integrar conocimientos de sistemas, redes, seguridad y aplicaciones web mientras se resuelven problemas reales y se documentan procesos de forma profesional.
 
-### El reto se divide en un blog técnico y un blog creativo. A nivel técnico, se trabaja con copias de seguridad, restauración de imágenes con Rescuezilla, servidores NFS y CUPS, y soluciones de acceso remoto. A nivel creativo y organizativo, se desarrolla un prototipo corporativo con Figma, se gestionan repositorios Git, se documenta el trabajo y se utiliza Kanban para organizar las tareas.
+### El reto se divide en un blog técnico y un blog creativo. A nivel técnico, se trabaja con copias de seguridad, restauración de imágenes con Rescuezilla, servidores NFS y CUPS, y soluciones de acceso remoto. A nivel creativo y organizativo, se desarrolla un prototipo corporativo con Figma, se gestionan repositorios Git, se documenta el trabajo y se utiliza Kanban para organizar las tareas.
 
-### El proyecto incorpora también criterios de sostenibilidad y economía circular. Por último, el alumno entrega una carpeta profesional con todos los servicios configurados, informes técnicos, prototipos y documentación, demostrando que está preparado para afrontar retos reales del mundo IT.
+### El proyecto incorpora también criterios de sostenibilidad y economía circular. Por último, el alumno entrega una carpeta profesional con todos los servicios configurados, informes técnicos, prototipos y documentación, demostrando que está preparado para afrontar retos reales del mundo IT.
 
 ### Enlaces
 
