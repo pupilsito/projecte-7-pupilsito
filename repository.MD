@@ -159,13 +159,13 @@ Pero como dice la leyenda del sector IT:
 
 ---
 
-# Proyecto 6: Proyecto Nexus
+## Proyecto 6: Proyecto Nexus
 
-### Proyecto Nexus quiere poner en marcha una plataforma de formación E-learning propia, orientada a cursos para técnicos informáticos y solicita que esta plataforma se construya sobre una infraestructura de servidor eficiente, sostenible y con costes controlados.
+### Proyecto Nexus quiere poner en marcha una plataforma de formación E-learning propia, orientada a cursos para técnicos informáticos y solicita que esta plataforma se construya sobre una infraestructura de servidor eficiente, sostenible y con costes controlados.
 
 ### Por este motivo, Proyecto Nexus encarga a su equipo técnico (usted) el estudio, despliegue y presentación de una solución completa de servidor, adecuada a las necesidades del cliente y al contexto real de una pequeña o mediana organización.
 
-### **El reto del proyecto:** El reto principal es crear y justificar una solución de servidor realista, como lo haría un técnico o técnica de sistemas en una empresa profesional.
+### **El reto del proyecto:** El reto principal es crear y justificar una solución de servidor realista, como lo haría un técnico o técnica de sistemas en una empresa profesional.
 
 ### **No se trata sólo de instalar un servidor, sino de:**
 - Entender qué necesita el cliente.
@@ -174,7 +174,7 @@ Pero como dice la leyenda del sector IT:
 - Explicar los costes y la viabilidad.
 - Presentar la solución de forma clara y comprensible.
 
-### **Este proyecto simula un encargo profesional real, similar a los que se puede encontrar en prácticas o en su futuro trabajo.**
+### **Este proyecto simula un encargo profesional real, similar a los que se puede encontrar en prácticas o en su futuro trabajo.**
 
 
 ### Enlaces
