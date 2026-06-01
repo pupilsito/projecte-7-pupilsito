@@ -82,25 +82,25 @@ Enlaces
 
 ## Proyecto 3: Everpia II. Sobrevivir en una empresa IT
 
-### Después de meses de y commits a última hora, EverPia ha logrado su primer gran éxito.
+### Después de meses de y commits a última hora, EverPia ha logrado su primer gran éxito.
 Pero como dice la leyenda del sector IT:
 
-### **“Cuando todo funciona, es que no lo has mirado bien.**
+### **“Cuando todo funciona, es que no lo has mirado bien.**
 
-### Ahora llega EverPia 2, donde el reto ya no es construir… sino sobrevivir.
+### Ahora llega EverPia 2, donde el reto ya no es construir… sino sobrevivir.
 
-### Los servidores queman y ustedes son los bomberos digitales.
+### Los servidores queman y ustedes son los bomberos digitales.
 
-### **Misión**
+### **Misión**
 
-### **Demostrar que sois capaces de:**
+### **Demostrar que sois capaces de:**
 - Resolver problemas reales de infraestructura IT
 - Gestionar servicios esenciales (DNS, LDAP, LVM…)
 - Trabajar con metodología ágil y serenidad
 - Mantener la calma mientras todo falla
 - El conocimiento es importante, pero la serenidad es un servicio premium.
 
-### **Objetivos formativos**
+### **Objetivos formativos**
 - Consolidar conocimientos avanzados en sistemas y redes
 - Resolver incidencias bajo presión
 - Documentar con GitHub y Markdown
@@ -187,12 +187,12 @@ Pero como dice la leyenda del sector IT:
 
 ---
 
-# Proyecto 7: Client FoodLogistic S.A.
+## Proyecto 7: Client FoodLogistic S.A.
 
-### Este proyecto consiste en ayudar a la empresa FoodLogístic S.A. a modernizar su infraestructura tecnológica y, al mismo tiempo, consolidar la presencia digital de su propia empresa informática.
+### Este proyecto consiste en ayudar a la empresa FoodLogístic S.A. a modernizar su infraestructura tecnológica y, al mismo tiempo, consolidar la presencia digital de su propia empresa informática.
 ### El cliente necesita mejoras en cuatro áreas principales: implementar servidores en alta disponibilidad para que los servicios críticos no se detengan, migrar el correo y las herramientas de trabajo a la nube con soluciones como Microsoft 365 o Google Workspace, formar a los trabajadores sobre protección de datos y cumplimiento de la LOPD mediante un vídeo formativo, y crear una nueva página web moderna y adaptada a la normativa vigente.
 
-### Además, todas las propuestas deben presentarse en una memoria técnica con documentación, pruebas de concepto y un repositorio organizado. También es necesario elaborar un presupuesto completo con costes de implantación, mantenimiento y soporte, así como un calendario detallado del despliegue utilizando herramientas de gestión y planificación como diagramas de Gantt o Planner.
+### Además, todas las propuestas deben presentarse en una memoria técnica con documentación, pruebas de concepto y un repositorio organizado. También es necesario elaborar un presupuesto completo con costes de implantación, mantenimiento y soporte, así como un calendario detallado del despliegue utilizando herramientas de gestión y planificación como diagramas de Gantt o Planner.
 
 ### Enlaces
 
